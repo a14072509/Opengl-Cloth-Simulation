@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Animation Project.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Camera.cpp
+  Cloth.cpp
+C:\Users\Will\Dev\workspaceCPP\169Cloth\Cloth Simulation\Cloth.cpp(10,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Will\Dev\workspaceCPP\169Cloth\Cloth Simulation\Cloth.cpp(225,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  main.cpp
+  Particle.cpp
+  Damper.cpp
+  display.cpp
+  Triangle.cpp
+C:\Users\Will\Dev\workspaceCPP\169Cloth\Cloth Simulation\Triangle.cpp(14,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Cloth Simulation.vcxproj -> C:\Users\Will\Dev\workspaceCPP\169Cloth\x64\Debug\Cloth Simulation.exe

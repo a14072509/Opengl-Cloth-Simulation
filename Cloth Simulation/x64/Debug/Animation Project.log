@@ -1,0 +1,9 @@
+﻿  Cloth.cpp
+C:\Users\Will\workspaceCPP\p2\Animation Project\Cloth.cpp(10,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Will\workspaceCPP\p2\Animation Project\Cloth.cpp(225,65): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Particle.cpp
+  Triangle.cpp
+C:\Users\Will\workspaceCPP\p2\Animation Project\Triangle.cpp(14,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  display.cpp
+  Generating Code...
+  Animation Project.vcxproj -> C:\Users\Will\workspaceCPP\p2\x64\Debug\Animation Project.exe
